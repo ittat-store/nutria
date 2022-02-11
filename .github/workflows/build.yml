@@ -18,4 +18,4 @@ jobs:
     - name: Build
       run: |
         ./jackady update-prebuilts
-        ls ./builder/output
+        ls ./nutria/builder/output
